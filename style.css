@@ -4,11 +4,20 @@ p
     float:left;
     width: 80%;
 }
+body
+{
+    display: block;
+    
+}
 .anhDZ
 {
     float: left;
 }
 .banner
+{
+    display: block; margin-left: auto; margin-right: auto;
+}
+.star
 {
     display: block; margin-left: auto; margin-right: auto;
 }
@@ -21,4 +30,235 @@ p
     font-family: AvenirNextLTPro-Regular;
     width: 60%;
     
+}
+#lh
+{
+    margin-right: 100px;
+}
+#dt 
+{
+    margin-right: 30px;
+}
+#sk
+{
+    margin-right: 30px;
+}
+#dktg
+{
+    margin-right: 30px;
+}
+#dr
+{
+    margin-right: 30px;
+}
+#vct
+{
+    margin-right: 30px;
+}
+#tc
+{
+    margin-right: 30px;
+}
+.dropdown-item
+{
+    font-weight: bold;
+    
+}
+
+#tc:hover 
+{
+    background:#ffcf00;
+    border-radius: 20px;
+    color: white;
+    transition: 0.2s;
+}
+#vct:hover 
+{
+    background:#ffcf00;
+    border-radius: 20px;
+    color: white;
+    transition: 0.2s;
+}
+
+#dr:hover 
+{
+    background:#ffcf00;
+    border-radius: 20px;
+    color: white;
+    transition: 0.2s;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+    transition: ease-in ;
+    margin-top: 10px;
+  }
+#dktg:hover 
+{
+    background:#ffcf00;
+    border-radius: 20px;
+    color: white;
+    transition: 0.2s;
+}
+#sk:hover 
+{
+    background:#ffcf00;
+    border-radius: 20px;
+    color: white;
+    transition: 0.2s;
+}
+#dt:hover 
+{
+    background:#ffcf00;
+    border-radius: 20px;
+    color: white;
+    transition: 0.2s;
+}
+#lh:hover 
+{
+    background:#ffcf00;
+    border-radius: 20px;
+    color: white;
+    transition: 0.2s;
+}
+.EVbanner
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 100px;
+}
+.contentt7
+{
+    text-align: left;
+    float: left;
+    width:40% ;
+    margin-left: 100px;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.in4
+{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.form
+{
+    width: 444px;
+    height: 41px;
+    border-radius: 18px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(255,207,0);
+    color: white;
+    margin-left: 100px;
+    font-size: 25px;
+    margin-bottom: 250px;
+}
+.ken
+{
+    width: 40%;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    float: right;
+}
+
+.gl9
+{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 800px;
+   
+}
+.text-gl9
+{
+    width:50%;
+    float: right;
+    font-size: 18px;
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+.form2
+{
+    width: 444px;
+    height: 41px;
+    border-radius: 18px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(255,207,0);
+    color: white;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-size: 25px;
+    margin-bottom: 300px;
+}
+.ken9
+{
+    width: 40%;
+    float: left;
+}
+.doitac
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    margin-bottom: 100px;
+}
+.trang7
+{
+    display: block;
+}
+.dvtc
+{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 130px;
+    margin-bottom: 30px;
+}
+.ftu
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    margin-bottom: 100px;
+}
+.nttkc
+{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 130px;
+    margin-bottom: 30px;
+}
+.nutri
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    margin-bottom: 100px;
+}
+.nttv
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+.aa
+{
+    width: 30%;
+}
+.Au
+{
+    float: left;
+    margin-left: 100px;
 }
