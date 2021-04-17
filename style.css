@@ -26,7 +26,7 @@ body
     display: block;
     margin-left: 275px;
     text-align: center;
-    font-size: 15px;
+    font-size: 18px;
     font-family: AvenirNextLTPro-Regular;
     width: 60%;
     
@@ -204,13 +204,23 @@ body
     width: 40%;
     float: left;
 }
+.doitac1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-bottom: 100px;
+    visibility: hidden;
+}
 .doitac
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 35%;
-    margin-bottom: 100px;
+    width: 20%;
+    margin-bottom: 70px;
+  
 }
 .trang7
 {
@@ -218,11 +228,11 @@ body
 }
 .dvtc
 {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     text-align: center;
     margin-left: 130px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .ftu
 {
@@ -230,15 +240,15 @@ body
     margin-left: auto;
     margin-right: auto;
     width: 35%;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 .nttkc
 {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     text-align: center;
     margin-left: 130px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .nutri
 {
@@ -246,19 +256,221 @@ body
     margin-left: auto;
     margin-right: auto;
     width: 35%;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 .nttv
 {
     font-weight: bold;
     font-size: 20px;
+    letter-spacing: 4px;
+    text-align: center;
 }
 .aa
 {
-    width: 30%;
+    width: 60%;
+    margin-bottom: 30px;
 }
-.Au
+.nttb
 {
-    float: left;
+    font-weight: bold;
+    font-size:20px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.ms
+{
+    width: 60%;
+    margin-bottom: 30px;
+}
+.row1
+{
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+}
+.column1
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    margin-bottom: 30px;
+}
+.column2
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    margin-bottom: 30px;
+}
+
+.nttd
+{
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.cu
+{
+    width: 60%;
+    margin-bottom: 30px;
+}
+.bttt
+{
+    font-weight: bold;
+    font-size:20px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.yb
+{
+    width: 60%;
+    margin-bottom: 30px;
+}
+.row2
+{
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+}
+.column3
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin-bottom: 30px;
+}
+.column4
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.dtcl
+{
+    font-weight: bold;
+    font-size:20px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.column5
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin-bottom: 30px;
+}
+.to 
+{
+    width: 60%;
+}
+
+.trang9
+{
+    scroll-snap-align: start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding-top: 293px;
+    background-color: #000;
+    margin-top: -120px;
+}
+.register
+{
+    flex-direction: column;
     margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fill
+{
+    color:white;
+    border: white solid 2px;
+    border-radius: 15px;
+    padding-left: 5%;
+    margin-bottom: 30px;
+    padding-bottom: 3%;
+}
+.lienhe
+{
+    margin-bottom: 20px;
+}
+.note-content
+{
+    padding: 20px 80px 40px 135px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    justify-content: center;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+}
+.nuthan
+{
+    width: 180px;
+    border-radius: 100%;
+    display: flex;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 200px;
+    z-index: 9;
+
+}
+.note-title
+{
+    font-weight: bold;
+    font-size: 20px;
+ 
+}
+.vongtronmauvang
+{
+    width: 246px;
+    border-radius: 100%;
+    display: flex;
+    position: absolute;
+    z-index: 0;
+    right: -120px;
+    margin-top: 400px;
+    margin-right: 290px;
+}
+.rule
+{
+    align-self: flex-end;
+    width: 54.79%;
+    margin-right: 50px;
+}
+.arigatou
+{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.scriptrule
+{
+    font-size: 15px;
+    margin-bottom: 18px;
+}
+.trang4
+{
+    background-color: #ffcf00;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-bottom: 131px;
+    margin-bottom: -125px;
 }
